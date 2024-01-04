@@ -1137,7 +1137,6 @@
 			};
 			modem_trip1: modem-trip1 {
 				temperature = <80000>;
-				temperature = <72000>;
 				hysteresis = <3000>;
 				type = "passive";
 			};
