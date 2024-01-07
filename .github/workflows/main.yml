@@ -24,7 +24,7 @@ jobs:
         NAME: Isekai-OC
       with:
         arch: arm64
-        compiler: gcc/10
+        compiler: clang/15
         defconfig: vince_defconfig
         image: Image.gz-dtb
 
